@@ -1,2 +1,2 @@
 # hi-world
-<img align="center" src="https://github.com/Onyxed/hi-world/blob/master/images.png" width=200>
+<img align="middle" src="https://github.com/Onyxed/hi-world/blob/master/images.png" width=200>
